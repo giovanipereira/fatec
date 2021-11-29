@@ -10,4 +10,4 @@ React Native
 Expo
 
 
-Projeto desenvolvido por: Giovani Pereira
+Projeto desenvolvido por: Giovani Pereira, Luciano Domingos
